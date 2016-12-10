@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'supermodel/cli'
+
+cli = Supermodel::CLI.new  
+cli.say_hello 
