@@ -2,5 +2,5 @@
 
 require 'supermodel/cli'
 
-cli = Supermodel::CLI.new  
+cli = Supermodel::Cli.new  
 cli.say_hello 
